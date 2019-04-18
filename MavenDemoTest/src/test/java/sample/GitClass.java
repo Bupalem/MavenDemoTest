@@ -10,6 +10,6 @@ public class GitClass {
   @Test
   public void f2() {
 	  System.out.println("adding another test in the class at ofc directory");
-	 
-  }
+	  }
+  
 }
