@@ -7,4 +7,9 @@ public class GitClass {
   public void f() {
 	  System.out.println("Created the new local repository and commit the code");
   }
+  @Test
+  public void othermethod() {
+	  System.out.println("Created the clone repository and commit the code");
+  }
+  
 }
