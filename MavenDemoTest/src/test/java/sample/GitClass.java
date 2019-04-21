@@ -11,5 +11,7 @@ public class GitClass {
   public void othermethod() {
 	  System.out.println("Created the clone repository and commit the code");
   }
-  
+  public void f2() {
+	  System.out.println("adding another test in the class at ofc directory");
+	  }  
 }
