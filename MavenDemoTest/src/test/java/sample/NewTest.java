@@ -2,11 +2,14 @@ package sample;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.testng.log4testng.Logger;
 
 public class NewTest {
+	Logger log=Logger.getLogger(NewTest.class);
   @Test
   public void f() {
 	  System.out.println("sample test executed");
+	  
   }
   @Test
   public void test2() {

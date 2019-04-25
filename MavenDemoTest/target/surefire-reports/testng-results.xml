@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="74" started-at="2019-04-16T16:36:09Z" finished-at="2019-04-16T16:36:09Z">
+  <suite name="Suite" duration-ms="76" started-at="2019-04-22T16:52:58Z" finished-at="2019-04-22T16:52:58Z">
     <groups>
     </groups>
-    <test name="Validating User login" duration-ms="74" started-at="2019-04-16T16:36:09Z" finished-at="2019-04-16T16:36:09Z">
+    <test name="Validating User login" duration-ms="76" started-at="2019-04-22T16:52:58Z" finished-at="2019-04-22T16:52:58Z">
       <class name="sample.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:sample.NewTest@edf4efb]" name="f" duration-ms="14" started-at="2019-04-16T22:06:09Z" finished-at="2019-04-16T22:06:09Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:sample.NewTest@7f690630]" name="f" duration-ms="15" started-at="2019-04-22T22:22:58Z" finished-at="2019-04-22T22:22:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:sample.NewTest@edf4efb]" name="test2" duration-ms="4" started-at="2019-04-16T22:06:09Z" finished-at="2019-04-16T22:06:09Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:sample.NewTest@7f690630]" name="test2" duration-ms="3" started-at="2019-04-22T22:22:58Z" finished-at="2019-04-22T22:22:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
