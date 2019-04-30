@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="242" started-at="2019-04-25T18:21:38Z" finished-at="2019-04-25T18:21:38Z">
+  <suite name="Default suite" duration-ms="87" started-at="2019-04-29T10:48:43Z" finished-at="2019-04-29T10:48:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="242" started-at="2019-04-25T18:21:38Z" finished-at="2019-04-25T18:21:38Z">
+    <test name="Default test" duration-ms="87" started-at="2019-04-29T10:48:43Z" finished-at="2019-04-29T10:48:43Z">
       <class name="sample.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:sample.NewTest@3aefe5e5]" name="f" duration-ms="172" started-at="2019-04-25T23:51:38Z" finished-at="2019-04-25T23:51:38Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:sample.NewTest@4b5d6a01]" name="f" duration-ms="54" started-at="2019-04-29T10:48:43Z" finished-at="2019-04-29T10:48:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:sample.NewTest@3aefe5e5]" name="test2" duration-ms="14" started-at="2019-04-25T23:51:38Z" finished-at="2019-04-25T23:51:38Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:sample.NewTest@4b5d6a01]" name="test2" duration-ms="5" started-at="2019-04-29T10:48:43Z" finished-at="2019-04-29T10:48:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
