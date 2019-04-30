@@ -1,6 +1,5 @@
 package sample;
 
-import org.apache.log4j.PropertyConfigurator;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.log4testng.Logger;
@@ -9,15 +8,15 @@ public class NewTest {
 	
   @Test
   public void f() {
-	  Logger log=Logger.getLogger(NewTest.class.getClass());
-	  PropertyConfigurator.configure("log4j.properties");
+	  Logger log=Logger.getLogger(NewTest.class);
+	 // PropertyConfigurator.configure("F://Selenium workspace//git_local_repos//MavenDemoTest//log4j.properties");
 	  System.out.println("sample test executed");
-	  log.info("sample test");
+	  log.debug("sample test");
   }
   @Test
   public void test2() {
 	  Logger log=Logger.getLogger(NewTest.class);
-	  PropertyConfigurator.configure("log4j.properties");
+	  //PropertyConfigurator.configure("log4j.properties");
 	  
 int a=20;
 int b=30;
