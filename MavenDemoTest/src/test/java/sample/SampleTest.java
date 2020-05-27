@@ -18,13 +18,5 @@ Assert.assertEquals(50, a+b);
 System.out.println("Test case2 executed successfully");  
 	  }
   
-  @Test
-  public void test3() {
-int a=20;
-int b=30;
-Assert.assertEquals(50, a+b);
-System.out.println("Test case2 executed successfully");  
-	  }
-  
   
 }
