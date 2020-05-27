@@ -9,7 +9,9 @@ public class SampleTest {
 int a=20;
 int b=30;
 Assert.assertEquals(50, a+b);
-System.out.println("Test case executed successfully");	  }
+System.out.println("Test case executed successfully");	  
+}
+   
   @Test
   public void test2() {
 int a=20;
